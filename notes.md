@@ -150,3 +150,4 @@
 - 2025-06-17: Adjust content
 - 2025-01-17: Add detail
 - 2025-11-09: Add note
+- 2026-12-12: Expand section
