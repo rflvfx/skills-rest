@@ -498,3 +498,4 @@
 - 2026-09-15: Add note
 - 2026-12-07: Review content
 - 2026-01-13: Update guide
+- 2026-12-09: Fix example
