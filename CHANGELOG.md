@@ -63,3 +63,4 @@
 - 2015-10-22: Update notes
 - 2015-10-06: Add detail
 - 2015-06-16: Adjust content
+- 2015-02-03: Clarify section
