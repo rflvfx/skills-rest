@@ -91,3 +91,4 @@
 - 2015-09-14: Clarify section
 - 2015-11-12: Add note
 - 2015-08-14: Add remark
+- 2015-02-10: Adjust content
