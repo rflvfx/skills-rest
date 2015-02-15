@@ -84,3 +84,4 @@
 - 2015-10-26: Clarify section
 - 2015-01-12: Refine text
 - 2015-07-01: Add note
+- 2015-02-15: Improve docs
