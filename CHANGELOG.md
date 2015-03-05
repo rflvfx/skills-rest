@@ -51,3 +51,4 @@
 - 2026-02-23: Document options preflight
 - 2026-11-15: Expand resource naming docs
 - 2015-03-20: Adjust content
+- 2015-03-05: Minor update
