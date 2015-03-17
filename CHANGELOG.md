@@ -76,3 +76,4 @@
 - 2015-08-11: Review content
 - 2015-01-17: Update guide
 - 2015-08-14: Polish docs
+- 2015-03-17: Minor update
