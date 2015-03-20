@@ -50,3 +50,4 @@
 - 2025-09-11: Update filter params reference
 - 2026-02-23: Document options preflight
 - 2026-11-15: Expand resource naming docs
+- 2015-03-20: Adjust content
