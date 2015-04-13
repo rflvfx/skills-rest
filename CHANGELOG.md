@@ -59,3 +59,4 @@
 - 2015-07-19: Clarify section
 - 2015-03-10: Typo fix
 - 2015-08-08: Adjust content
+- 2015-04-13: Update notes
