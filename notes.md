@@ -6,3 +6,4 @@
 - 2015-03-08: Improve docs
 - 2015-12-18: Typo fix
 - 2015-12-06: Expand section
+- 2015-05-04: Polish docs
