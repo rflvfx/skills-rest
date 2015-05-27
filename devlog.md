@@ -10,3 +10,4 @@
 - 2020-12-23 — Fix examples
 - 2022-12-15 — Review material
 - 2024-06-13 — Review material
+- 2015-05-27 - Fix typo in docs
