@@ -65,3 +65,4 @@
 - 2015-06-16: Adjust content
 - 2015-02-03: Clarify section
 - 2015-02-05: Update notes
+- 2015-06-20: Add remark
