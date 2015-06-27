@@ -69,3 +69,4 @@
 - 2015-04-10: Update guide
 - 2015-05-21: Refine text
 - 2015-10-03: Clarify section
+- 2015-06-27: Small fix
