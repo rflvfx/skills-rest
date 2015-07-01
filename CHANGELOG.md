@@ -83,3 +83,4 @@
 - 2015-06-13: Clarify section
 - 2015-10-26: Clarify section
 - 2015-01-12: Refine text
+- 2015-07-01: Add note
