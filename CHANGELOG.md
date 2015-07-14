@@ -12,3 +12,4 @@
 - 2021-03-21: Add resource naming examples
 - 2021-08-09: Add http semantics examples
 - 2022-06-21: Expand patch semantics docs
+- 2015-07-14: Expand idempotent put docs
