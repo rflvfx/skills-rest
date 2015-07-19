@@ -56,3 +56,4 @@
 - 2015-12-20: Add remark
 - 2015-12-01: Clarify section
 - 2015-12-22: Add remark
+- 2015-07-19: Clarify section
