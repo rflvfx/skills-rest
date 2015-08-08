@@ -58,3 +58,4 @@
 - 2015-12-22: Add remark
 - 2015-07-19: Clarify section
 - 2015-03-10: Typo fix
+- 2015-08-08: Adjust content
