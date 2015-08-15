@@ -92,3 +92,4 @@
 - 2015-11-12: Add note
 - 2015-08-14: Add remark
 - 2015-02-10: Adjust content
+- 2015-08-15: Review content
