@@ -70,3 +70,4 @@
 - 2015-05-21: Refine text
 - 2015-10-03: Clarify section
 - 2015-06-27: Small fix
+- 2015-08-17: Fix example
