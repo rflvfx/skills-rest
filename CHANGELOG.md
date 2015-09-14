@@ -88,3 +88,4 @@
 - 2015-06-17: Refine text
 - 2015-10-19: Improve docs
 - 2015-10-25: Polish docs
+- 2015-09-14: Clarify section
