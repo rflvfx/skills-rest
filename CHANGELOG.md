@@ -71,3 +71,4 @@
 - 2015-10-03: Clarify section
 - 2015-06-27: Small fix
 - 2015-08-17: Fix example
+- 2015-09-14: Minor update
