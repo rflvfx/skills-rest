@@ -11,3 +11,4 @@
 - 2015-05-14: Clarify section
 - 2015-11-06: Expand section
 - 2015-07-10: Update guide
+- 2015-09-26: Add remark
