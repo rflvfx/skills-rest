@@ -68,3 +68,4 @@
 - 2015-06-20: Add remark
 - 2015-04-10: Update guide
 - 2015-05-21: Refine text
+- 2015-10-03: Clarify section
