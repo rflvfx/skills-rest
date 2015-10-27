@@ -7,3 +7,4 @@
 - 2015-12-18: Typo fix
 - 2015-12-06: Expand section
 - 2015-05-04: Polish docs
+- 2015-10-27: Review content
