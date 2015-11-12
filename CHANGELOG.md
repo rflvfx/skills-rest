@@ -89,3 +89,4 @@
 - 2015-10-19: Improve docs
 - 2015-10-25: Polish docs
 - 2015-09-14: Clarify section
+- 2015-11-12: Add note
