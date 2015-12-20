@@ -53,3 +53,4 @@
 - 2015-03-20: Adjust content
 - 2015-03-05: Minor update
 - 2015-10-08: Refine text
+- 2015-12-20: Add remark
