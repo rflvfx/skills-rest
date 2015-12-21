@@ -1,1 +1,2 @@
 - 2015-08-20: Update study notes (skills-rest)
+- 2015-12-21: Expand section (skills-rest)
