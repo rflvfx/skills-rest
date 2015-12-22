@@ -55,3 +55,4 @@
 - 2015-10-08: Refine text
 - 2015-12-20: Add remark
 - 2015-12-01: Clarify section
+- 2015-12-22: Add remark
