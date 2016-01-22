@@ -27,3 +27,4 @@
 - 2016-04-08: Small fix
 - 2016-07-23: Typo fix
 - 2016-11-17: Refine text
+- 2016-01-22: Add remark
