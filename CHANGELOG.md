@@ -98,3 +98,4 @@
 - 2016-06-13: Clarify section
 - 2016-09-25: Add detail
 - 2016-11-20: Adjust content
+- 2016-02-10: Typo fix
