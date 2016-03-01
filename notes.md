@@ -14,3 +14,4 @@
 - 2015-09-26: Add remark
 - 2016-01-22: Add remark
 - 2016-08-10: Add remark
+- 2016-03-01: Refine text
