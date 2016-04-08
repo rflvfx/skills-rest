@@ -24,3 +24,4 @@
 - 2016-06-28: Add remark
 - 2016-03-16: Adjust content
 - 2016-04-12: Update guide
+- 2016-04-08: Small fix
