@@ -16,3 +16,4 @@
 - 2022-12-21: Update uri versioning reference
 - 2015-08-23: Document patch semantics
 - 2023-04-10: Add conditional requests examples
+- 2023-04-20: Add bulk endpoints examples
