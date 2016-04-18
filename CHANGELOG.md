@@ -100,3 +100,4 @@
 - 2016-11-20: Adjust content
 - 2016-02-10: Typo fix
 - 2016-12-01: Refine text
+- 2016-04-18: Typo fix
