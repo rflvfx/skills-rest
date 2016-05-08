@@ -112,3 +112,4 @@
 - 2016-07-10: Refine text
 - 2016-07-07: Clarify section
 - 2016-07-25: Typo fix
+- 2016-05-08: Add detail
