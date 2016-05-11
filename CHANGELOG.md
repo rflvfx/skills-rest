@@ -108,3 +108,4 @@
 - 2016-07-11: Polish docs
 - 2016-03-17: Improve docs
 - 2016-07-08: Add note
+- 2016-05-11: Add detail
