@@ -21,3 +21,4 @@
 - 2016-02-08: Update notes
 - 2016-09-06: Fix example
 - 2016-05-24: Improve docs
+- 2016-06-28: Add remark
