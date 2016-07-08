@@ -107,3 +107,4 @@
 - 2016-11-05: Refine text
 - 2016-07-11: Polish docs
 - 2016-03-17: Improve docs
+- 2016-07-08: Add note
