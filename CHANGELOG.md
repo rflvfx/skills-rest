@@ -105,3 +105,4 @@
 - 2016-09-07: Update notes
 - 2016-09-23: Adjust content
 - 2016-11-05: Refine text
+- 2016-07-11: Polish docs
