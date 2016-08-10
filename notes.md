@@ -13,3 +13,4 @@
 - 2015-07-10: Update guide
 - 2015-09-26: Add remark
 - 2016-01-22: Add remark
+- 2016-08-10: Add remark
