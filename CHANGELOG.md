@@ -128,3 +128,4 @@
 - 2016-08-22: Update guide
 - 2016-05-22: Add note
 - 2016-07-17: Add note
+- 2016-09-04: Refine text
