@@ -19,3 +19,4 @@
 - 2016-07-20: Minor update
 - 2016-09-16: Adjust content
 - 2016-02-08: Update notes
+- 2016-09-06: Fix example
