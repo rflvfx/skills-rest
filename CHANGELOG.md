@@ -124,3 +124,4 @@
 - 2016-04-20: Add remark
 - 2016-12-15: Add remark
 - 2016-11-02: Add remark
+- 2016-09-15: Update notes
