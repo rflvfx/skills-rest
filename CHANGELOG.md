@@ -18,3 +18,4 @@
 - 2023-04-10: Add conditional requests examples
 - 2023-04-20: Add bulk endpoints examples
 - 2023-05-17: Update nested resources reference
+- 2016-09-17: Document bulk endpoints
