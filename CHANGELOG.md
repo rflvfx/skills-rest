@@ -97,3 +97,4 @@
 - 2016-12-09: Review content
 - 2016-06-13: Clarify section
 - 2016-09-25: Add detail
+- 2016-11-20: Adjust content
