@@ -94,3 +94,4 @@
 - 2015-02-10: Adjust content
 - 2015-08-15: Review content
 - 2016-04-15: Polish docs
+- 2016-12-09: Review content
