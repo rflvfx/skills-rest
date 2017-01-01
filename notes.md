@@ -45,3 +45,4 @@
 - 2017-09-14: Clarify section
 - 2017-06-02: Refine text
 - 2017-11-22: Clarify section
+- 2017-01-01: Adjust content
