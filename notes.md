@@ -29,3 +29,4 @@
 - 2016-11-17: Refine text
 - 2016-01-22: Add remark
 - 2017-04-04: Add note
+- 2017-02-04: Polish docs
