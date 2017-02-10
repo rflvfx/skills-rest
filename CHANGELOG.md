@@ -150,3 +150,4 @@
 - 2017-11-08: Typo fix
 - 2017-04-11: Review content
 - 2017-11-20: Add note
+- 2017-02-10: Adjust content
