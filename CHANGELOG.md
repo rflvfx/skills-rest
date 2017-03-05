@@ -160,3 +160,4 @@
 - 2017-05-04: Refine text
 - 2017-07-01: Clarify section
 - 2017-01-20: Update guide
+- 2017-03-05: Expand section
