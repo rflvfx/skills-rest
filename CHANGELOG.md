@@ -139,3 +139,4 @@
 - 2017-10-23: Update notes
 - 2017-11-01: Review content
 - 2017-08-21: Polish docs
+- 2017-03-10: Update guide
