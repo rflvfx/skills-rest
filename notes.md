@@ -28,3 +28,4 @@
 - 2016-07-23: Typo fix
 - 2016-11-17: Refine text
 - 2016-01-22: Add remark
+- 2017-04-04: Add note
