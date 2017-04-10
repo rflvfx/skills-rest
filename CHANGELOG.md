@@ -154,3 +154,4 @@
 - 2017-06-09: Minor update
 - 2017-08-05: Polish docs
 - 2017-08-16: Review content
+- 2017-04-10: Adjust content
