@@ -157,3 +157,4 @@
 - 2017-04-10: Adjust content
 - 2017-09-07: Add remark
 - 2017-02-12: Add remark
+- 2017-05-04: Refine text
