@@ -130,3 +130,4 @@
 - 2016-07-17: Add note
 - 2016-09-04: Refine text
 - 2016-03-18: Fix example
+- 2017-05-05: Expand section
