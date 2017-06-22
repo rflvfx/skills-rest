@@ -143,3 +143,4 @@
 - 2017-10-23: Improve docs
 - 2017-10-16: Add remark
 - 2017-03-01: Expand section
+- 2017-06-22: Improve docs
