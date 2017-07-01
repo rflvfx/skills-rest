@@ -158,3 +158,4 @@
 - 2017-09-07: Add remark
 - 2017-02-12: Add remark
 - 2017-05-04: Refine text
+- 2017-07-01: Clarify section
