@@ -34,3 +34,4 @@
 - 2017-12-22: Update guide
 - 2017-03-10: Typo fix
 - 2017-03-07: Improve docs
+- 2017-07-07: Expand section
