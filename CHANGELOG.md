@@ -22,3 +22,4 @@
 - 2024-04-22: Update filter params reference
 - 2024-06-03: Add sort params examples
 - 2024-12-19: Document field selection
+- 2017-08-15: Review sort params section
