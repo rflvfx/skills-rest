@@ -138,3 +138,4 @@
 - 2017-12-24: Fix example
 - 2017-10-23: Update notes
 - 2017-11-01: Review content
+- 2017-08-21: Polish docs
