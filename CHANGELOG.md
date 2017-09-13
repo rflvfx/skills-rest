@@ -23,3 +23,5 @@
 - 2024-06-03: Add sort params examples
 - 2024-12-19: Document field selection
 - 2017-08-15: Review sort params section
+- 2017-09-13: Add field selection examples
+- 2025-04-03: Update head requests reference
