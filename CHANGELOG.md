@@ -161,3 +161,4 @@
 - 2017-07-01: Clarify section
 - 2017-01-20: Update guide
 - 2017-03-05: Expand section
+- 2017-10-28: Improve docs
