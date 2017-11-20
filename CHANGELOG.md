@@ -149,3 +149,4 @@
 - 2017-06-14: Improve docs
 - 2017-11-08: Typo fix
 - 2017-04-11: Review content
+- 2017-11-20: Add note
