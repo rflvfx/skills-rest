@@ -25,3 +25,5 @@
 - 2017-08-15: Review sort params section
 - 2017-09-13: Add field selection examples
 - 2025-04-03: Update head requests reference
+- 2017-12-05: Refine head requests guide
+- 2025-05-08: Review options preflight section
