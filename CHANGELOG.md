@@ -145,3 +145,4 @@
 - 2017-03-01: Expand section
 - 2017-06-22: Improve docs
 - 2017-11-20: Add remark
+- 2017-12-21: Polish docs
