@@ -31,3 +31,4 @@
 - 2017-04-04: Add note
 - 2017-02-04: Polish docs
 - 2017-07-14: Add remark
+- 2017-12-22: Update guide
