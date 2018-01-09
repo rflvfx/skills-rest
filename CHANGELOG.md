@@ -201,3 +201,4 @@
 - 2018-01-08: Review content
 - 2018-06-03: Review content
 - 2018-06-23: Update guide
+- 2018-01-09: Add remark
