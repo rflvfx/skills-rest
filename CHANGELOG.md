@@ -181,3 +181,4 @@
 - 2018-01-07: Improve docs
 - 2018-06-05: Expand section
 - 2018-04-20: Improve docs
+- 2018-01-15: Polish docs
