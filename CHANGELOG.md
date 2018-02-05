@@ -196,3 +196,4 @@
 - 2018-09-28: Clarify section
 - 2018-10-16: Update guide
 - 2018-02-27: Review content
+- 2018-02-05: Add detail
