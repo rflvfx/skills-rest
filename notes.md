@@ -53,3 +53,4 @@
 - 2018-07-05: Refine text
 - 2018-08-12: Add detail
 - 2018-02-09: Refine text
+- 2018-02-07: Expand section
