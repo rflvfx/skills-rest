@@ -55,3 +55,4 @@
 - 2018-02-09: Refine text
 - 2018-02-07: Expand section
 - 2018-08-04: Improve docs
+- 2018-02-07: Typo fix
