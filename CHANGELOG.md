@@ -189,3 +189,4 @@
 - 2018-11-24: Refine text
 - 2018-11-11: Improve docs
 - 2018-09-17: Polish docs
+- 2018-02-15: Polish docs
