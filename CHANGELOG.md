@@ -195,3 +195,4 @@
 - 2018-02-01: Expand section
 - 2018-09-28: Clarify section
 - 2018-10-16: Update guide
+- 2018-02-27: Review content
