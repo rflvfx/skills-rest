@@ -48,3 +48,4 @@
 - 2017-01-01: Adjust content
 - 2018-11-02: Polish docs
 - 2018-12-01: Minor update
+- 2018-03-13: Fix example
