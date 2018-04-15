@@ -49,3 +49,4 @@
 - 2018-11-02: Polish docs
 - 2018-12-01: Minor update
 - 2018-03-13: Fix example
+- 2018-04-15: Minor update
