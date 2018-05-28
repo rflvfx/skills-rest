@@ -174,3 +174,4 @@
 - 2018-08-08: Review content
 - 2018-04-14: Minor update
 - 2018-12-16: Polish docs
+- 2018-05-28: Add note
