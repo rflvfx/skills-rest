@@ -29,3 +29,4 @@
 - 2025-05-08: Review options preflight section
 - 2025-12-11: Update deprecation policy reference
 - 2018-01-28: Document options preflight
+- 2018-07-18: Expand deprecation policy docs
