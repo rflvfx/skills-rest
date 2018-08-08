@@ -171,3 +171,4 @@
 - 2018-01-22: Typo fix
 - 2018-06-07: Add remark
 - 2018-05-26: Typo fix
+- 2018-08-08: Review content
