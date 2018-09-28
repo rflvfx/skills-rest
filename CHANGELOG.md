@@ -193,3 +193,4 @@
 - 2018-06-08: Polish docs
 - 2018-09-08: Review content
 - 2018-02-01: Expand section
+- 2018-09-28: Clarify section
