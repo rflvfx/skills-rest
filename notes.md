@@ -47,3 +47,4 @@
 - 2017-11-22: Clarify section
 - 2017-01-01: Adjust content
 - 2018-11-02: Polish docs
+- 2018-12-01: Minor update
