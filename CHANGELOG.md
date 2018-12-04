@@ -165,3 +165,4 @@
 - 2017-08-04: Add note
 - 2017-08-15: Review content
 - 2018-12-27: Adjust content
+- 2018-12-04: Improve docs
