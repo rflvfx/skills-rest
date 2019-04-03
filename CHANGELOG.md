@@ -33,3 +33,4 @@
 - 2026-11-02: Refine http semantics guide
 - 2019-01-03: Update http semantics reference
 - 2019-01-11: Document idempotent put
+- 2019-04-03: Expand patch semantics docs
