@@ -241,3 +241,4 @@
 - 2019-03-17: Update guide
 - 2019-02-17: Add remark
 - 2019-01-28: Add remark
+- 2019-04-15: Fix example
