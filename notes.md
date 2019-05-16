@@ -59,3 +59,4 @@
 - 2019-09-19: Small fix
 - 2019-03-27: Update guide
 - 2019-09-03: Adjust content
+- 2019-05-16: Expand section
