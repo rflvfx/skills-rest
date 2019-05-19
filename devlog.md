@@ -1,3 +1,4 @@
 - 2015-07-06 - Add practice notes
 - 2016-03-17 - Add practice notes
 - 2019-05-11 - Improve documentation
+- 2019-05-19 - Small fixes
