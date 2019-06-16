@@ -6,3 +6,4 @@
 - 2017-05-26: Review conditional requests section
 - 2018-04-22: Review nested resources section
 - 2018-06-28: Expand filter params docs
+- 2019-06-16: Add head requests examples
