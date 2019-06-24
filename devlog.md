@@ -4,3 +4,4 @@
 - 2019-05-19 - Small fixes
 - 2019-06-04 - Update notes
 - 2024-09-09 - Update notes
+- 2019-06-24 — Add practice notes
