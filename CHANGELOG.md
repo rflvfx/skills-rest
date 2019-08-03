@@ -211,3 +211,4 @@
 - 2018-12-14: Clarify section
 - 2019-01-14: Expand section
 - 2019-10-06: Add note
+- 2019-08-03: Update notes
