@@ -232,3 +232,4 @@
 - 2019-07-19: Add note
 - 2019-08-16: Clarify section
 - 2019-06-14: Minor update
+- 2019-09-05: Add detail
