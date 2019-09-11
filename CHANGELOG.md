@@ -34,3 +34,4 @@
 - 2019-01-03: Update http semantics reference
 - 2019-01-11: Document idempotent put
 - 2019-04-03: Expand patch semantics docs
+- 2019-09-11: Expand hateoas links docs
