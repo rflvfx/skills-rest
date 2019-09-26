@@ -226,3 +226,4 @@
 - 2019-02-24: Fix example
 - 2019-09-15: Review content
 - 2019-09-16: Typo fix
+- 2019-09-26: Small fix
