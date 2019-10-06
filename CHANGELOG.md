@@ -210,3 +210,4 @@
 - 2018-03-25: Minor update
 - 2018-12-14: Clarify section
 - 2019-01-14: Expand section
+- 2019-10-06: Add note
