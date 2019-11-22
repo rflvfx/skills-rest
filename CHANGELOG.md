@@ -235,3 +235,4 @@
 - 2019-09-05: Add detail
 - 2019-12-15: Improve docs
 - 2019-05-01: Add detail
+- 2019-11-22: Clarify section
