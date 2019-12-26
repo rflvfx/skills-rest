@@ -222,3 +222,4 @@
 - 2019-06-14: Small fix
 - 2019-04-23: Improve docs
 - 2019-03-21: Clarify section
+- 2019-12-26: Update notes
