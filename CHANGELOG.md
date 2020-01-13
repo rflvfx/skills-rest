@@ -247,3 +247,4 @@
 - 2020-09-12: Fix example
 - 2020-02-24: Update notes
 - 2020-09-15: Expand section
+- 2020-01-13: Fix example
