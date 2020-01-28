@@ -269,3 +269,4 @@
 - 2020-10-03: Improve docs
 - 2020-08-28: Improve docs
 - 2020-07-09: Add note
+- 2020-01-28: Add note
