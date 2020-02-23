@@ -68,3 +68,4 @@
 - 2019-02-28: Adjust content
 - 2019-05-23: Update notes
 - 2020-09-12: Update notes
+- 2020-02-23: Small fix
