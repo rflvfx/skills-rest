@@ -245,3 +245,4 @@
 - 2019-08-27: Small fix
 - 2020-06-26: Improve docs
 - 2020-09-12: Fix example
+- 2020-02-24: Update notes
