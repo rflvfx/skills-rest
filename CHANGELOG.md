@@ -250,3 +250,4 @@
 - 2020-01-13: Fix example
 - 2020-06-20: Add note
 - 2020-11-01: Typo fix
+- 2020-03-02: Add note
