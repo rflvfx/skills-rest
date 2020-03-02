@@ -260,3 +260,4 @@
 - 2020-09-01: Fix example
 - 2020-06-19: Refine text
 - 2020-06-27: Small fix
+- 2020-03-02: Clarify section
