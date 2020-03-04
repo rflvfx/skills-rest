@@ -36,3 +36,4 @@
 - 2019-04-03: Expand patch semantics docs
 - 2019-09-11: Expand hateoas links docs
 - 2020-02-08: Add uri versioning examples
+- 2020-03-04: Review conditional requests section
