@@ -263,3 +263,4 @@
 - 2020-03-02: Clarify section
 - 2020-08-05: Adjust content
 - 2020-05-23: Minor update
+- 2020-05-15: Update guide
