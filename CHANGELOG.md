@@ -253,3 +253,4 @@
 - 2020-03-02: Add note
 - 2020-08-24: Fix example
 - 2020-09-05: Update notes
+- 2020-06-12: Refine text
