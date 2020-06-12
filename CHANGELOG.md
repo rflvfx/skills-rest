@@ -254,3 +254,4 @@
 - 2020-08-24: Fix example
 - 2020-09-05: Update notes
 - 2020-06-12: Refine text
+- 2020-06-12: Add detail
