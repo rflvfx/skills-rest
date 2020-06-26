@@ -243,3 +243,4 @@
 - 2019-01-28: Add remark
 - 2019-04-15: Fix example
 - 2019-08-27: Small fix
+- 2020-06-26: Improve docs
