@@ -256,3 +256,4 @@
 - 2020-06-12: Refine text
 - 2020-06-12: Add detail
 - 2020-08-15: Add note
+- 2020-06-26: Minor update
