@@ -259,3 +259,4 @@
 - 2020-06-26: Minor update
 - 2020-09-01: Fix example
 - 2020-06-19: Refine text
+- 2020-06-27: Small fix
