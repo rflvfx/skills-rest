@@ -279,3 +279,4 @@
 - 2020-12-07: Review content
 - 2020-11-14: Refine text
 - 2020-11-26: Clarify section
+- 2020-07-13: Add note
