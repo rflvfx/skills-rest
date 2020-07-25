@@ -272,3 +272,4 @@
 - 2020-01-28: Add note
 - 2020-04-12: Improve docs
 - 2020-08-17: Fix example
+- 2020-07-25: Add detail
