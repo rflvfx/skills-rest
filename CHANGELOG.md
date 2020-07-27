@@ -8,3 +8,4 @@
 - 2018-06-28: Expand filter params docs
 - 2019-06-16: Add head requests examples
 - 2020-05-05: Update deprecation policy reference
+- 2020-07-27: Add status mapping notes
