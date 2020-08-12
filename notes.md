@@ -70,3 +70,4 @@
 - 2020-09-12: Update notes
 - 2020-02-23: Small fix
 - 2020-06-15: Expand section
+- 2020-08-12: Adjust content
