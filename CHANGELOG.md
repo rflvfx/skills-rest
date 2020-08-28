@@ -267,3 +267,4 @@
 - 2020-01-13: Expand section
 - 2020-10-24: Add note
 - 2020-10-03: Improve docs
+- 2020-08-28: Improve docs
