@@ -246,3 +246,4 @@
 - 2020-06-26: Improve docs
 - 2020-09-12: Fix example
 - 2020-02-24: Update notes
+- 2020-09-15: Expand section
