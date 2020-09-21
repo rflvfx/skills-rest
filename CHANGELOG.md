@@ -281,3 +281,4 @@
 - 2020-11-26: Clarify section
 - 2020-07-13: Add note
 - 2020-06-07: Add detail
+- 2020-09-21: Improve docs
