@@ -274,3 +274,4 @@
 - 2020-08-17: Fix example
 - 2020-07-25: Add detail
 - 2020-01-08: Add remark
+- 2020-10-18: Review content
