@@ -71,3 +71,4 @@
 - 2020-02-23: Small fix
 - 2020-06-15: Expand section
 - 2020-08-12: Adjust content
+- 2020-10-19: Typo fix
