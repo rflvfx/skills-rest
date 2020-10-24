@@ -265,3 +265,4 @@
 - 2020-05-23: Minor update
 - 2020-05-15: Update guide
 - 2020-01-13: Expand section
+- 2020-10-24: Add note
