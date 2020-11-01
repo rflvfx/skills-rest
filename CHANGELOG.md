@@ -249,3 +249,4 @@
 - 2020-09-15: Expand section
 - 2020-01-13: Fix example
 - 2020-06-20: Add note
+- 2020-11-01: Typo fix
