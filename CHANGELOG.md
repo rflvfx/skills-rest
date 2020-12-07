@@ -276,3 +276,4 @@
 - 2020-01-08: Add remark
 - 2020-10-18: Review content
 - 2020-01-16: Refine text
+- 2020-12-07: Review content
