@@ -7,3 +7,4 @@
 - 2019-06-24 — Add practice notes
 - 2019-11-24 — Improve documentation
 - 2020-11-04 — Improve documentation
+- 2020-12-23 — Fix examples
