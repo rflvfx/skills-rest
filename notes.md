@@ -85,3 +85,4 @@
 - 2021-08-08: Clarify section
 - 2021-05-22: Improve docs
 - 2021-03-17: Small fix
+- 2021-01-04: Improve docs
