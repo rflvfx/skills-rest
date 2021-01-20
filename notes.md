@@ -75,3 +75,4 @@
 - 2020-06-17: Polish docs
 - 2020-05-23: Fix example
 - 2021-04-19: Add note
+- 2021-01-20: Add detail
