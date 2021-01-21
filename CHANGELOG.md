@@ -288,3 +288,4 @@
 - 2020-08-17: Minor update
 - 2021-02-11: Improve docs
 - 2021-07-24: Improve docs
+- 2021-01-21: Add detail
