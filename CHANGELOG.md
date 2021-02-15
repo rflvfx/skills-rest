@@ -296,3 +296,4 @@
 - 2021-10-11: Polish docs
 - 2021-04-02: Clarify section
 - 2021-02-14: Review content
+- 2021-02-15: Adjust content
