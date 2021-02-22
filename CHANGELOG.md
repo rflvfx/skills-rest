@@ -297,3 +297,4 @@
 - 2021-04-02: Clarify section
 - 2021-02-14: Review content
 - 2021-02-15: Adjust content
+- 2021-02-22: Add detail
