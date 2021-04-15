@@ -39,3 +39,4 @@
 - 2020-03-04: Review conditional requests section
 - 2020-08-10: Review bulk endpoints section
 - 2020-10-08: Review nested resources section
+- 2021-04-15: Document field selection
