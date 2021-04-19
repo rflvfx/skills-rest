@@ -74,3 +74,4 @@
 - 2020-10-19: Typo fix
 - 2020-06-17: Polish docs
 - 2020-05-23: Fix example
+- 2021-04-19: Add note
