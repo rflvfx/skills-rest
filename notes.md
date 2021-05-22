@@ -83,3 +83,4 @@
 - 2021-09-16: Update notes
 - 2021-08-04: Review content
 - 2021-08-08: Clarify section
+- 2021-05-22: Improve docs
