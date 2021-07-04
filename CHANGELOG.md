@@ -321,3 +321,4 @@
 - 2021-12-19: Expand section
 - 2021-12-09: Add note
 - 2021-11-16: Add note
+- 2021-07-04: Clarify section
