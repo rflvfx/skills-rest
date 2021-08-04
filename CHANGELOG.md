@@ -323,3 +323,4 @@
 - 2021-11-16: Add note
 - 2021-07-04: Clarify section
 - 2021-04-22: Improve docs
+- 2021-08-04: Adjust content
