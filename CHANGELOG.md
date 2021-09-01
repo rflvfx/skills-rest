@@ -308,3 +308,4 @@
 - 2021-02-08: Improve docs
 - 2021-09-27: Add detail
 - 2021-06-14: Update guide
+- 2021-09-01: Update notes
