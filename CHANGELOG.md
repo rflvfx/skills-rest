@@ -292,3 +292,4 @@
 - 2021-02-05: Expand section
 - 2021-03-17: Add remark
 - 2021-07-11: Small fix
+- 2021-09-27: Improve docs
