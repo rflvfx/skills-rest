@@ -293,3 +293,4 @@
 - 2021-03-17: Add remark
 - 2021-07-11: Small fix
 - 2021-09-27: Improve docs
+- 2021-10-11: Polish docs
