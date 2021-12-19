@@ -318,3 +318,4 @@
 - 2021-11-19: Update guide
 - 2021-11-23: Improve docs
 - 2021-02-11: Clarify section
+- 2021-12-19: Expand section
