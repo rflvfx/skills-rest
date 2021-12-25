@@ -310,3 +310,4 @@
 - 2021-06-14: Update guide
 - 2021-09-01: Update notes
 - 2021-12-08: Fix example
+- 2021-12-25: Improve docs
