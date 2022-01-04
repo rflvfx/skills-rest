@@ -350,3 +350,4 @@
 - 2022-10-19: Add remark
 - 2022-04-16: Typo fix
 - 2022-08-26: Expand section
+- 2022-01-04: Polish docs
