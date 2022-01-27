@@ -98,3 +98,4 @@
 - 2022-09-14: Expand section
 - 2022-08-27: Review content
 - 2022-04-17: Fix example
+- 2022-01-27: Refine text
