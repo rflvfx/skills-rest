@@ -353,3 +353,4 @@
 - 2022-01-04: Polish docs
 - 2022-01-03: Add remark
 - 2022-07-26: Adjust content
+- 2022-02-11: Add detail
