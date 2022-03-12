@@ -341,3 +341,4 @@
 - 2022-09-06: Update notes
 - 2022-08-26: Update guide
 - 2022-10-10: Small fix
+- 2022-03-12: Add note
