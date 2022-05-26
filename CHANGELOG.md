@@ -366,3 +366,4 @@
 - 2022-08-17: Fix example
 - 2022-09-01: Improve docs
 - 2022-09-21: Add detail
+- 2022-05-26: Refine text
