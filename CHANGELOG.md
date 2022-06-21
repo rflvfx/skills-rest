@@ -11,3 +11,4 @@
 - 2020-07-27: Add status mapping notes
 - 2021-03-21: Add resource naming examples
 - 2021-08-09: Add http semantics examples
+- 2022-06-21: Expand patch semantics docs
