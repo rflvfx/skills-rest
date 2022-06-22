@@ -101,3 +101,4 @@
 - 2022-01-27: Refine text
 - 2022-02-14: Small fix
 - 2022-05-13: Add remark
+- 2022-06-22: Improve docs
