@@ -352,3 +352,4 @@
 - 2022-08-26: Expand section
 - 2022-01-04: Polish docs
 - 2022-01-03: Add remark
+- 2022-07-26: Adjust content
