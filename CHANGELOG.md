@@ -355,3 +355,4 @@
 - 2022-07-26: Adjust content
 - 2022-02-11: Add detail
 - 2022-06-20: Add note
+- 2022-07-28: Small fix
