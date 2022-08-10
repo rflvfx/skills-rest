@@ -334,3 +334,4 @@
 - 2022-09-21: Add remark
 - 2022-10-12: Review content
 - 2022-11-27: Refine text
+- 2022-08-10: Add detail
