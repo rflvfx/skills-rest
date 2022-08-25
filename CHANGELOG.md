@@ -325,3 +325,4 @@
 - 2021-04-22: Improve docs
 - 2021-08-04: Adjust content
 - 2022-04-08: Update notes
+- 2022-08-25: Clarify section
