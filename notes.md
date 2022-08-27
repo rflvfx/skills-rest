@@ -96,3 +96,4 @@
 - 2022-05-25: Clarify section
 - 2022-03-16: Clarify section
 - 2022-09-14: Expand section
+- 2022-08-27: Review content
