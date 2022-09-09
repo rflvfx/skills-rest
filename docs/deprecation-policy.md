@@ -1,0 +1,6 @@
+# Deprecation policy
+
+Notes on deprecation policy for skills-rest.
+
+- Key concept and usage notes
+- Practical examples and caveats
