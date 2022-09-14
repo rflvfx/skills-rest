@@ -336,3 +336,4 @@
 - 2022-11-27: Refine text
 - 2022-08-10: Add detail
 - 2022-11-28: Refine text
+- 2022-09-14: Update guide
