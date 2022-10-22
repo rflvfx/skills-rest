@@ -362,3 +362,4 @@
 - 2022-05-22: Add detail
 - 2022-11-11: Polish docs
 - 2022-10-12: Add detail
+- 2022-10-22: Add note
