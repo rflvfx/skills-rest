@@ -360,3 +360,4 @@
 - 2022-11-25: Expand section
 - 2022-08-17: Improve docs
 - 2022-05-22: Add detail
+- 2022-11-11: Polish docs
