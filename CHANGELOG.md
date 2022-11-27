@@ -333,3 +333,4 @@
 - 2022-09-11: Improve docs
 - 2022-09-21: Add remark
 - 2022-10-12: Review content
+- 2022-11-27: Refine text
