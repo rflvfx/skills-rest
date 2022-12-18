@@ -326,3 +326,4 @@
 - 2021-08-04: Adjust content
 - 2022-04-08: Update notes
 - 2022-08-25: Clarify section
+- 2022-12-18: Update guide
