@@ -393,3 +393,4 @@
 - 2023-11-14: Small fix
 - 2023-02-20: Small fix
 - 2023-06-27: Small fix
+- 2023-01-06: Improve docs
