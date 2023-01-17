@@ -40,3 +40,4 @@
 - 2020-08-10: Review bulk endpoints section
 - 2020-10-08: Review nested resources section
 - 2021-04-15: Document field selection
+- 2023-01-17: Add http semantics notes
