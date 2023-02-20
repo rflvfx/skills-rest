@@ -367,3 +367,4 @@
 - 2022-09-01: Improve docs
 - 2022-09-21: Add detail
 - 2022-05-26: Refine text
+- 2023-02-20: Clarify section
