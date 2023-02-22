@@ -383,3 +383,4 @@
 - 2023-04-04: Add remark
 - 2023-06-11: Small fix
 - 2023-07-13: Refine text
+- 2023-02-22: Update guide
