@@ -373,3 +373,4 @@
 - 2023-12-10: Fix example
 - 2023-04-14: Add detail
 - 2023-02-04: Improve docs
+- 2023-03-02: Small fix
