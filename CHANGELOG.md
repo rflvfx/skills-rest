@@ -14,3 +14,5 @@
 - 2022-06-21: Expand patch semantics docs
 - 2015-07-14: Expand idempotent put docs
 - 2022-12-21: Update uri versioning reference
+- 2015-08-23: Document patch semantics
+- 2023-04-10: Add conditional requests examples
