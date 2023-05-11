@@ -41,3 +41,4 @@
 - 2020-10-08: Review nested resources section
 - 2021-04-15: Document field selection
 - 2023-01-17: Add http semantics notes
+- 2023-05-11: Update patch semantics reference
