@@ -398,3 +398,4 @@
 - 2023-09-24: Fix example
 - 2023-11-17: Improve docs
 - 2023-06-17: Polish docs
+- 2023-06-27: Update notes
