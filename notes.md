@@ -113,3 +113,4 @@
 - 2023-04-15: Refine text
 - 2023-09-27: Add note
 - 2023-09-23: Improve docs
+- 2023-08-24: Typo fix
