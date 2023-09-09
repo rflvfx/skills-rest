@@ -106,3 +106,4 @@
 - 2023-04-04: Improve docs
 - 2023-08-18: Clarify section
 - 2023-02-26: Adjust content
+- 2023-09-09: Refine text
