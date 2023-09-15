@@ -42,3 +42,4 @@
 - 2021-04-15: Document field selection
 - 2023-01-17: Add http semantics notes
 - 2023-05-11: Update patch semantics reference
+- 2023-09-15: Improve hateoas links coverage
