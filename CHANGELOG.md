@@ -400,3 +400,4 @@
 - 2023-06-17: Polish docs
 - 2023-06-27: Update notes
 - 2023-02-28: Update notes
+- 2023-09-17: Update guide
