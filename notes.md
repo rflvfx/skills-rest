@@ -111,3 +111,4 @@
 - 2023-04-06: Update notes
 - 2023-09-22: Clarify section
 - 2023-04-15: Refine text
+- 2023-09-27: Add note
