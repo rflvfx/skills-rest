@@ -390,3 +390,4 @@
 - 2023-07-09: Add detail
 - 2023-04-07: Expand section
 - 2023-03-21: Adjust content
+- 2023-11-14: Small fix
