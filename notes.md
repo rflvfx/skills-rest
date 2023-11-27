@@ -119,3 +119,4 @@
 - 2023-06-06: Clarify section
 - 2023-07-28: Add remark
 - 2023-11-04: Add remark
+- 2023-11-27: Typo fix
