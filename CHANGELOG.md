@@ -370,3 +370,4 @@
 - 2023-02-20: Clarify section
 - 2023-04-23: Add detail
 - 2023-02-16: Polish docs
+- 2023-12-10: Fix example
