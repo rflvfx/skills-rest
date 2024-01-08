@@ -126,3 +126,4 @@
 - 2024-07-21: Small fix
 - 2024-02-20: Add note
 - 2024-03-19: Polish docs
+- 2024-01-08: Adjust content
