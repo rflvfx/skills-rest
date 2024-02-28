@@ -130,3 +130,4 @@
 - 2024-11-12: Review content
 - 2024-09-14: Small fix
 - 2024-12-15: Update notes
+- 2024-02-28: Add detail
