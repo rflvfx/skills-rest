@@ -43,3 +43,4 @@
 - 2023-01-17: Add http semantics notes
 - 2023-05-11: Update patch semantics reference
 - 2023-09-15: Improve hateoas links coverage
+- 2024-03-02: Add uri versioning notes
