@@ -46,3 +46,4 @@
 - 2024-03-02: Add uri versioning notes
 - 2024-03-10: Review conditional requests section
 - 2024-03-17: Expand bulk endpoints docs
+- 2024-03-28: Expand nested resources docs
