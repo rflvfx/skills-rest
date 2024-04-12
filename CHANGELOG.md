@@ -413,3 +413,4 @@
 - 2024-04-06: Update guide
 - 2024-12-17: Add note
 - 2024-01-08: Improve docs
+- 2024-04-12: Fix example
