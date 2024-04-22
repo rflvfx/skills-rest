@@ -19,3 +19,4 @@
 - 2023-04-20: Add bulk endpoints examples
 - 2023-05-17: Update nested resources reference
 - 2016-09-17: Document bulk endpoints
+- 2024-04-22: Update filter params reference
