@@ -404,3 +404,4 @@
 - 2023-12-22: Expand section
 - 2023-10-18: Add remark
 - 2023-11-15: Review content
+- 2024-04-24: Add detail
