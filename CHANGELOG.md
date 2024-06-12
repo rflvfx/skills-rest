@@ -434,3 +434,4 @@
 - 2024-05-20: Review content
 - 2024-04-22: Typo fix
 - 2024-01-28: Small fix
+- 2024-06-12: Refine text
