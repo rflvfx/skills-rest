@@ -409,3 +409,4 @@
 - 2024-12-01: Polish docs
 - 2024-12-04: Add note
 - 2024-07-06: Polish docs
+- 2024-08-22: Expand section
