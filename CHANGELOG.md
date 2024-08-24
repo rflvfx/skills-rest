@@ -441,3 +441,4 @@
 - 2024-10-01: Improve docs
 - 2024-09-27: Add detail
 - 2024-05-20: Expand section
+- 2024-08-24: Update notes
