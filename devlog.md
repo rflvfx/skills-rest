@@ -3,3 +3,4 @@
 - 2019-05-11 - Improve documentation
 - 2019-05-19 - Small fixes
 - 2019-06-04 - Update notes
+- 2024-09-09 - Update notes
