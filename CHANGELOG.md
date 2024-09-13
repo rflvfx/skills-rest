@@ -415,3 +415,4 @@
 - 2024-01-08: Improve docs
 - 2024-04-12: Fix example
 - 2024-06-17: Typo fix
+- 2024-09-13: Improve docs
