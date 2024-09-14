@@ -128,3 +128,4 @@
 - 2024-03-19: Polish docs
 - 2024-01-08: Adjust content
 - 2024-11-12: Review content
+- 2024-09-14: Small fix
