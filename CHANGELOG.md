@@ -438,3 +438,4 @@
 - 2024-10-17: Update guide
 - 2024-12-01: Clarify section
 - 2024-09-18: Clarify section
+- 2024-10-01: Improve docs
