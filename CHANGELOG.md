@@ -435,3 +435,4 @@
 - 2024-04-22: Typo fix
 - 2024-01-28: Small fix
 - 2024-06-12: Refine text
+- 2024-10-17: Update guide
