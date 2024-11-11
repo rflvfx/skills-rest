@@ -418,3 +418,4 @@
 - 2024-09-13: Improve docs
 - 2024-07-20: Typo fix
 - 2024-10-21: Small fix
+- 2024-11-11: Minor update
