@@ -424,3 +424,4 @@
 - 2024-03-12: Expand section
 - 2024-12-08: Minor update
 - 2024-12-12: Add note
+- 2024-11-28: Clarify section
