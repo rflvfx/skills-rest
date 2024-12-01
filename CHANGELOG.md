@@ -406,3 +406,4 @@
 - 2023-11-15: Review content
 - 2024-04-24: Add detail
 - 2024-07-28: Review content
+- 2024-12-01: Polish docs
