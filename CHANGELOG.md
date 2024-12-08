@@ -422,3 +422,4 @@
 - 2024-06-02: Update guide
 - 2024-07-26: Add remark
 - 2024-03-12: Expand section
+- 2024-12-08: Minor update
