@@ -423,3 +423,4 @@
 - 2024-07-26: Add remark
 - 2024-03-12: Expand section
 - 2024-12-08: Minor update
+- 2024-12-12: Add note
