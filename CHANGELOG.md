@@ -425,3 +425,4 @@
 - 2024-12-08: Minor update
 - 2024-12-12: Add note
 - 2024-11-28: Clarify section
+- 2024-12-16: Update notes
