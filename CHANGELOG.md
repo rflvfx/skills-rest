@@ -411,3 +411,4 @@
 - 2024-07-06: Polish docs
 - 2024-08-22: Expand section
 - 2024-04-06: Update guide
+- 2024-12-17: Add note
