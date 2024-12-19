@@ -21,3 +21,4 @@
 - 2016-09-17: Document bulk endpoints
 - 2024-04-22: Update filter params reference
 - 2024-06-03: Add sort params examples
+- 2024-12-19: Document field selection
