@@ -148,3 +148,4 @@
 - 2025-06-10: Add detail
 - 2025-04-23: Typo fix
 - 2025-06-17: Adjust content
+- 2025-01-17: Add detail
