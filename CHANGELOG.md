@@ -482,3 +482,4 @@
 - 2025-08-11: Improve docs
 - 2025-04-20: Expand section
 - 2025-01-17: Add remark
+- 2025-02-26: Small fix
