@@ -480,3 +480,4 @@
 - 2025-05-01: Polish docs
 - 2025-09-09: Polish docs
 - 2025-08-11: Improve docs
+- 2025-04-20: Expand section
