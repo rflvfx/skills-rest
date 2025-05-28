@@ -461,3 +461,4 @@
 - 2025-07-11: Minor update
 - 2025-08-24: Typo fix
 - 2025-11-04: Improve docs
+- 2025-05-28: Clarify section
