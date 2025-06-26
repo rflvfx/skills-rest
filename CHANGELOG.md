@@ -462,3 +462,4 @@
 - 2025-08-24: Typo fix
 - 2025-11-04: Improve docs
 - 2025-05-28: Clarify section
+- 2025-06-26: Polish docs
