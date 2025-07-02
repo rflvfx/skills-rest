@@ -470,3 +470,4 @@
 - 2025-04-11: Fix example
 - 2025-05-28: Update guide
 - 2025-11-25: Review content
+- 2025-07-02: Adjust content
