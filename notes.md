@@ -140,3 +140,4 @@
 - 2025-03-21: Clarify section
 - 2025-12-05: Refine text
 - 2025-06-17: Small fix
+- 2025-07-07: Add detail
