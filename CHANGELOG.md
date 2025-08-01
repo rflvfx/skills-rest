@@ -476,3 +476,4 @@
 - 2025-07-19: Add detail
 - 2025-12-22: Fix example
 - 2025-08-23: Add remark
+- 2025-08-01: Polish docs
