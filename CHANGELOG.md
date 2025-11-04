@@ -460,3 +460,4 @@
 - 2025-12-24: Refine text
 - 2025-07-11: Minor update
 - 2025-08-24: Typo fix
+- 2025-11-04: Improve docs
