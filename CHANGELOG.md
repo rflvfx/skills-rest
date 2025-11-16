@@ -446,3 +446,4 @@
 - 2025-10-03: Polish docs
 - 2025-03-10: Update guide
 - 2025-10-10: Add detail
+- 2025-11-16: Improve docs
