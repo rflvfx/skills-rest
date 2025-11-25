@@ -469,3 +469,4 @@
 - 2025-08-05: Improve docs
 - 2025-04-11: Fix example
 - 2025-05-28: Update guide
+- 2025-11-25: Review content
