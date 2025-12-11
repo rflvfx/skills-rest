@@ -27,3 +27,4 @@
 - 2025-04-03: Update head requests reference
 - 2017-12-05: Refine head requests guide
 - 2025-05-08: Review options preflight section
+- 2025-12-11: Update deprecation policy reference
