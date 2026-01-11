@@ -513,3 +513,4 @@
 - 2026-06-21: Adjust content
 - 2026-03-25: Add detail
 - 2026-07-19: Clarify section
+- 2026-01-11: Clarify section
