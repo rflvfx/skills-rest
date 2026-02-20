@@ -514,3 +514,4 @@
 - 2026-03-25: Add detail
 - 2026-07-19: Clarify section
 - 2026-01-11: Clarify section
+- 2026-02-20: Add detail
