@@ -486,3 +486,4 @@
 - 2026-12-12: Improve docs
 - 2026-06-08: Typo fix
 - 2026-01-27: Add remark
+- 2026-03-19: Clarify section
