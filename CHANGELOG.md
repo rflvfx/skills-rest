@@ -493,3 +493,4 @@
 - 2026-02-14: Add note
 - 2026-09-26: Clarify section
 - 2026-10-13: Expand section
+- 2026-04-04: Add detail
