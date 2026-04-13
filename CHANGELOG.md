@@ -506,3 +506,4 @@
 - 2026-08-27: Expand section
 - 2026-07-22: Polish docs
 - 2026-08-27: Improve docs
+- 2026-04-13: Typo fix
