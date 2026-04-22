@@ -500,3 +500,4 @@
 - 2026-01-13: Update guide
 - 2026-12-09: Fix example
 - 2026-02-25: Expand section
+- 2026-04-22: Refine text
