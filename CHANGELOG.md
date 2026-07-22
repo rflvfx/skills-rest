@@ -504,3 +504,4 @@
 - 2026-07-26: Add note
 - 2026-09-15: Minor update
 - 2026-08-27: Expand section
+- 2026-07-22: Polish docs
