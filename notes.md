@@ -157,3 +157,4 @@
 - 2026-07-20: Polish docs
 - 2026-01-07: Fix example
 - 2026-01-28: Refine text
+- 2026-08-13: Adjust content
