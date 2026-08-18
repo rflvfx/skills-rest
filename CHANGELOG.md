@@ -487,3 +487,4 @@
 - 2026-06-08: Typo fix
 - 2026-01-27: Add remark
 - 2026-03-19: Clarify section
+- 2026-08-18: Refine text
