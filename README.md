@@ -1,20 +1,12 @@
 # skills-rest
 
-Habilidade: **REST**
+API REST com Express. CRUD de usuarios em memoria.
 
-## Anos de experiencia
+```bash
+npm install
+npm start
+```
 
-_Atualize este campo com o tempo de experiencia real._
-
-## Sobre
-
-Repositorio de referencia para a habilidade **REST**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=REST+documentacao)
+- `GET /users`
+- `GET /users/:id`
+- `POST /users`
