@@ -492,3 +492,4 @@
 - 2026-12-22: Expand section
 - 2026-02-14: Add note
 - 2026-09-26: Clarify section
+- 2026-10-13: Expand section
