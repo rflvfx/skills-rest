@@ -30,3 +30,4 @@
 - 2025-12-11: Update deprecation policy reference
 - 2018-01-28: Document options preflight
 - 2018-07-18: Expand deprecation policy docs
+- 2026-11-02: Refine http semantics guide
