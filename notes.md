@@ -161,3 +161,4 @@
 - 2026-02-18: Review content
 - 2026-06-25: Improve docs
 - 2026-05-28: Expand section
+- 2026-11-02: Clarify section
