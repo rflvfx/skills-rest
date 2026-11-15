@@ -49,3 +49,4 @@
 - 2024-03-28: Expand nested resources docs
 - 2025-09-11: Update filter params reference
 - 2026-02-23: Document options preflight
+- 2026-11-15: Expand resource naming docs
